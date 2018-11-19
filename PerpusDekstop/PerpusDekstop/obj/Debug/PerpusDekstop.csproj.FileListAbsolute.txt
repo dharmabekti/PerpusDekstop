@@ -1,0 +1,10 @@
+E:\My Documents\KSBD\Project\PerpusDekstop\PerpusDekstop\bin\Debug\PerpusDekstop.exe.config
+E:\My Documents\KSBD\Project\PerpusDekstop\PerpusDekstop\bin\Debug\PerpusDekstop.exe
+E:\My Documents\KSBD\Project\PerpusDekstop\PerpusDekstop\bin\Debug\PerpusDekstop.pdb
+E:\My Documents\KSBD\Project\PerpusDekstop\PerpusDekstop\obj\Debug\PerpusDekstop.Properties.Resources.resources
+E:\My Documents\KSBD\Project\PerpusDekstop\PerpusDekstop\obj\Debug\PerpusDekstop.csproj.GenerateResource.cache
+E:\My Documents\KSBD\Project\PerpusDekstop\PerpusDekstop\obj\Debug\PerpusDekstop.csproj.CoreCompileInputs.cache
+E:\My Documents\KSBD\Project\PerpusDekstop\PerpusDekstop\obj\Debug\PerpusDekstop.exe
+E:\My Documents\KSBD\Project\PerpusDekstop\PerpusDekstop\obj\Debug\PerpusDekstop.pdb
+E:\My Documents\KSBD\Project\PerpusDekstop\PerpusDekstop\obj\Debug\PerpusDekstop.csprojAssemblyReference.cache
+E:\My Documents\KSBD\Project\PerpusDekstop\PerpusDekstop\obj\Debug\PerpusDekstop.Form1.resources
